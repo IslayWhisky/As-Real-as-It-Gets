@@ -1,0 +1,2 @@
+{"time": "2023-07-13 07:48:32.969479", "device": "dahua", "src_ip": "223.99.217.86", "src_port": "16581", "token": "botnet", "dictionary": true, "step1": true, "step2": true, "step3": false, "step4": false, "step5": false, "step6": false}
+{"time": "2023-07-13 11:21:07.982931", "device": "dahua", "src_ip": "61.53.143.230", "src_port": "39861", "token": "<unknown>", "dictionary": true, "step1": true, "step2": true, "step3": false, "step4": false, "step5": false, "step6": false}
