@@ -1,0 +1,8 @@
+{"time": "2023-11-05 00:32:34.390947", "device": "netgear", "src_ip": "175.107.0.223", "src_port": "24379", "token": "<unknown>", "command": "wget", "download_ip": "200.59.114.69", "download_port": "45994", "download_uri": "/i"}
+{"time": "2023-11-05 01:30:55.623866", "device": "netgear", "src_ip": "175.107.0.223", "src_port": "21220", "token": "<unknown>", "command": "wget", "download_ip": "200.59.114.69", "download_port": "45994", "download_uri": "/i"}
+{"time": "2023-11-05 02:17:37.497237", "device": "netgear", "src_ip": "141.98.10.55", "src_port": "39934", "token": "BOTNET", "command": "wget", "download_ip": "141.98.10.55", "download_port": "80", "download_uri": "/binz/doxbin.arc"}
+{"time": "2023-11-05 02:38:55.951228", "device": "netgear", "src_ip": "141.98.10.55", "src_port": "34515", "token": "doxbin", "command": "wget", "download_ip": "141.98.10.55", "download_port": "80", "download_uri": "/binz/doxbin.mips"}
+{"time": "2023-11-05 04:16:35.226093", "device": "netgear", "src_ip": "175.107.0.223", "src_port": "28911", "token": "<unknown>", "command": "wget", "download_ip": "175.107.0.223", "download_port": "46242", "download_uri": "/i"}
+{"time": "2023-11-05 04:27:11.387295", "device": "netgear", "src_ip": "182.58.229.236", "src_port": "33955", "token": "hostname TBOT", "command": "echo", "download_uri": "/bins/jklarm"}
+{"time": "2023-11-05 04:27:11.387295", "device": "netgear", "src_ip": "182.58.229.236", "src_port": "33955", "token": "hostname TBOT", "command": "echo", "download_uri": "/bins/jklarm7"}
+{"time": "2023-11-05 04:27:11.387295", "device": "netgear", "src_ip": "182.58.229.236", "src_port": "33955", "token": "hostname TBOT", "command": "echo", "download_uri": "/bins/jklmips"}

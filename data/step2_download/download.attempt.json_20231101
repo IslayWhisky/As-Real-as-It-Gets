@@ -1,0 +1,18 @@
+{"time": "2023-11-01 01:26:27.010278", "device": "asus", "src_ip": "45.152.84.69", "src_port": "56786", "token": "<unknown>", "command": "wget", "download_ip": "45.152.84.69", "download_port": "80", "download_uri": "/arc"}
+{"time": "2023-11-01 01:26:32.438205", "device": "ubiquiti", "src_ip": "45.152.84.69", "src_port": "50760", "token": "<unknown>", "command": "wget", "download_ip": "45.152.84.69", "download_port": "80", "download_uri": "/arc"}
+{"time": "2023-11-01 04:21:49.329269", "device": "asus", "src_ip": "45.92.109.86", "src_port": "57921", "token": "Layer1", "command": "tftp", "download_ip": "45.92.109.86", "download_port": "69"}
+{"time": "2023-11-01 04:21:49.329269", "device": "asus", "src_ip": "45.92.109.86", "src_port": "57921", "token": "Layer1", "command": "echo", "download_uri": "/Y91/arm"}
+{"time": "2023-11-01 08:05:01.484089", "device": "asus", "src_ip": "45.95.146.126", "src_port": "43651", "token": "HolyFuck", "command": "tftp", "download_ip": "45.95.147.226", "download_port": "69"}
+{"time": "2023-11-01 08:05:01.484089", "device": "asus", "src_ip": "45.95.146.126", "src_port": "43651", "token": "HolyFuck", "command": "tftp", "download_ip": "45.95.147.226", "download_port": "69"}
+{"time": "2023-11-01 08:05:01.484089", "device": "asus", "src_ip": "45.95.146.126", "src_port": "43651", "token": "HolyFuck", "command": "echo", "download_uri": "/bins/arm7"}
+{"time": "2023-11-01 08:05:01.484089", "device": "asus", "src_ip": "45.95.146.126", "src_port": "43651", "token": "HolyFuck", "command": "echo", "download_uri": "/bins/arm"}
+{"time": "2023-11-01 08:37:56.209223", "device": "asus", "src_ip": "95.214.25.120", "src_port": "36145", "token": "loud", "command": "tftp", "download_ip": "95.214.25.120", "download_port": "69"}
+{"time": "2023-11-01 08:37:56.209223", "device": "asus", "src_ip": "95.214.25.120", "src_port": "36145", "token": "loud", "command": "echo", "download_uri": "/z0l1mxjm4mdl4jjfjf7sb2vdmv/KKveTTgaAAsecNNaaaa.arm7"}
+{"time": "2023-11-01 09:10:41.817586", "device": "asus", "src_ip": "45.95.146.126", "src_port": "35165", "token": "HolyFuck", "command": "tftp", "download_ip": "45.95.147.226", "download_port": "69"}
+{"time": "2023-11-01 09:10:41.817586", "device": "asus", "src_ip": "45.95.146.126", "src_port": "35165", "token": "HolyFuck", "command": "tftp", "download_ip": "45.95.147.226", "download_port": "69"}
+{"time": "2023-11-01 09:10:41.817586", "device": "asus", "src_ip": "45.95.146.126", "src_port": "35165", "token": "HolyFuck", "command": "echo", "download_uri": "/bins/jklarm7"}
+{"time": "2023-11-01 09:10:41.817586", "device": "asus", "src_ip": "45.95.146.126", "src_port": "35165", "token": "HolyFuck", "command": "echo", "download_uri": "/bins/jklarm"}
+{"time": "2023-11-01 09:27:01.541083", "device": "asus", "src_ip": "185.224.128.199", "src_port": "51133", "token": "HolyFuck", "command": "tftp", "download_ip": "45.95.147.226", "download_port": "69"}
+{"time": "2023-11-01 09:27:01.541083", "device": "asus", "src_ip": "185.224.128.199", "src_port": "51133", "token": "HolyFuck", "command": "echo", "download_uri": "/bins/jklarm7"}
+{"time": "2023-11-01 10:17:50.163558", "device": "ubiquiti", "src_ip": "45.88.90.114", "src_port": "36376", "token": "<unknown>", "command": "wget", "download_ip": "45.88.90.110", "download_port": "80", "download_uri": "/arc"}
+{"time": "2023-11-01 20:25:49.929696", "device": "ubiquiti", "src_ip": "107.189.10.12", "src_port": "55556", "token": "<unknown>", "command": "wget", "download_ip": "45.88.90.110", "download_port": "80", "download_uri": "/arc"}

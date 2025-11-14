@@ -1,0 +1,6 @@
+{"time": "2023-11-08 09:16:58.029091", "device": "netgear", "src_ip": "178.34.159.224", "src_port": "43214", "token": "hostname TBOT", "command": "wget", "download_ip": "94.156.68.148", "download_port": "80", "download_uri": "/jklarm7"}
+{"time": "2023-11-08 09:16:58.029091", "device": "netgear", "src_ip": "178.34.159.224", "src_port": "43214", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm"}
+{"time": "2023-11-08 09:16:58.029091", "device": "netgear", "src_ip": "178.34.159.224", "src_port": "43214", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm5"}
+{"time": "2023-11-08 09:16:58.029091", "device": "netgear", "src_ip": "178.34.159.224", "src_port": "43214", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm6"}
+{"time": "2023-11-08 18:10:50.945235", "device": "billion", "src_ip": "193.35.18.223", "src_port": "34054", "token": "<unknown>", "command": "tftp", "download_ip": "84.54.51.156", "download_port": "69"}
+{"time": "2023-11-08 18:10:50.945235", "device": "billion", "src_ip": "193.35.18.223", "src_port": "34054", "token": "<unknown>", "command": "wget", "download_ip": "84.54.51.156", "download_port": "80", "download_uri": "/86"}
