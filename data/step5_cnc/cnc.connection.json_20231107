@@ -1,0 +1,10 @@
+{"time": "2023-11-07 01:05:46.108399", "device": "billion", "src_ip": "45.95.146.126", "src_port": "49351", "token": "ASFAS", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-11-07 02:28:05.583274", "device": "billion", "src_ip": "221.234.30.186", "src_port": "44500", "token": "hostname TBOT", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-11-07 04:12:28.340592", "device": "billion", "src_ip": "109.235.219.158", "src_port": "43836", "token": "hostname TBOT", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-11-07 04:12:36.124417", "device": "billion", "src_ip": "45.95.146.126", "src_port": "40001", "token": "ASFAS", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-11-07 04:51:10.566012", "device": "billion", "src_ip": "88.225.223.239", "src_port": "40227", "token": "hostname TBOT", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-11-07 04:51:18.895013", "device": "billion", "src_ip": "45.95.146.126", "src_port": "52139", "token": "ASFAS", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-11-07 05:17:25.107439", "device": "billion", "src_ip": "45.95.146.126", "src_port": "35319", "token": "ASFAS", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-11-07 05:17:50.593110", "device": "billion", "src_ip": "94.156.66.33", "src_port": "41283", "token": "Layer1", "cnc_server": "185.254.37.107:37009", "connect": true, "response": true}
+{"time": "2023-11-07 05:18:49.580384", "device": "billion", "src_ip": "94.156.66.33", "src_port": "37111", "token": "Layer1", "cnc_server": "185.254.37.107:37009", "connect": true, "response": true}
+{"time": "2023-11-07 07:16:33.732016", "device": "billion", "src_ip": "45.95.146.126", "src_port": "49212", "token": "ASFAS", "cnc_server": "<DGA1>", "connect": true, "response": false}

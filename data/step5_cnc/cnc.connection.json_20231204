@@ -1,0 +1,4 @@
+{"time": "2023-12-04 11:05:42.998358", "device": "asus", "src_ip": "36.37.250.72", "src_port": "56741", "token": "OCAFH", "cnc_server": "<P2P>", "connect": true, "response": "dummy"}
+{"time": "2023-12-04 14:44:54.292799", "device": "dlink", "src_ip": "91.92.241.143", "src_port": "49203", "token": "HolyFuck", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": "dummy"}
+{"time": "2023-12-04 14:55:26.006440", "device": "dlink", "src_ip": "91.92.241.143", "src_port": "34200", "token": "HolyFuck", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": "dummy"}
+{"time": "2023-12-04 15:22:17.005316", "device": "qnap", "src_ip": "91.92.241.143", "src_port": "52657", "token": "HolyFuck", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}
