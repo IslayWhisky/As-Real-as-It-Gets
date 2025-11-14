@@ -1,0 +1,4 @@
+{"time": "2023-11-24 15:24:45.435335", "device": "zte", "src_ip": "94.156.68.148", "src_port": "49223", "token": "TBOTNET", "command": "echo", "download_uri": "/mips", "complete": true}
+{"time": "2023-11-24 16:27:02.465178", "device": "netgear", "src_ip": "123.172.51.43", "src_port": "37998", "token": "hostname TBOT", "command": "wget", "download_ip": "94.156.68.148", "download_port": "80", "download_uri": "/jklarm7", "complete": true}
+{"time": "2023-11-24 22:04:53.137079", "device": "netgear", "src_ip": "94.156.68.148", "src_port": "36882", "token": "TBOTNET", "command": "wget", "download_ip": "91.92.251.17", "download_port": "80", "download_uri": "/mips", "complete": "dummy"}
+{"time": "2023-11-24 22:38:21.333270", "device": "netgear", "src_ip": "94.156.68.148", "src_port": "50781", "token": "TBOTNET", "command": "wget", "download_ip": "91.92.251.17", "download_port": "80", "download_uri": "/mips", "complete": "dummy"}

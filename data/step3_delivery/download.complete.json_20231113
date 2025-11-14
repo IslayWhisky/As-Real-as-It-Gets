@@ -1,0 +1,1 @@
+{"time": "2023-11-13 00:22:01.667121", "device": "qnap", "src_ip": "94.156.68.153", "src_port": "41013", "token": "ASFAS", "command": "wget", "download_ip": "94.156.68.148", "download_port": "80", "download_uri": "/jklx86", "complete": "dummy"}

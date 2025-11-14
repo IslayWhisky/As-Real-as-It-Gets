@@ -1,0 +1,1 @@
+{"time": "2023-11-22 20:37:43.117714", "device": "billion", "src_ip": "2.37.39.10", "src_port": "42016", "token": "hostname TBOT", "command": "wget", "download_ip": "94.156.68.148", "download_port": "80", "download_uri": "/jklarm7", "complete": true}

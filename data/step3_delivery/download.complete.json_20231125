@@ -1,0 +1,1 @@
+{"time": "2023-11-25 00:26:40.642862", "device": "netgear", "src_ip": "42.55.186.253", "src_port": "56231", "token": "hostname TBOT"", "command": "wget", "download_ip": "94.156.68.148", "download_port": "80", "download_uri": "/jklmips", "complete": true}
