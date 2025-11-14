@@ -1,0 +1,3 @@
+{"time": "2023-07-13 07:48:32.969479", "device": "dahua", "src_ip": "223.99.217.86", "src_port": "16581", "token": "botnet", "command": "tftp", "download_ip": "95.214.26.112", "download_port": "69"}
+{"time": "2023-07-13 07:48:32.969479", "device": "dahua", "src_ip": "223.99.217.86", "src_port": "16581", "token": "botnet", "command": "wget", "download_ip": "95.214.26.112", "download_port": "80", "download_uri": "/arm5"}
+{"time": "2023-07-13 11:21:07.982931", "device": "dahua", "src_ip": "61.53.143.230", "src_port": "39861", "token": "<unknown>", "command": "wget", "download_ip": "42.232.24.222", "download_port": "34429", "download_uri": "/i"}

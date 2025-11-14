@@ -1,0 +1,2 @@
+{"time": "2023-07-18 04:19:10.496502", "device": "billion", "src_ip": "220.198.240.85", "src_port": "7738", "token": "<unknown>", "command": "wget", "download_ip": "192.168.1.1", "download_port": "8088", "download_uri": "/i"}
+{"time": "2023-07-18 22:35:07.415043", "device": "billion", "src_ip": "45.95.147.229", "src_port": "58978", "token": "<unknown>", "command": "wget", "download_ip": "185.225.74.251", "download_port": "80", "download_uri": "/arc"}
