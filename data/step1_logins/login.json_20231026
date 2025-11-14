@@ -1,0 +1,37 @@
+{"time": "2023-10-26 10:36:43.167195", "device": "opengear", "src_ip": "192.168.100.1", "src_port": "52222", "token": "hostname testbot", "dictionary": "false"}
+{"time": "2023-10-26 10:41:18.596320", "device": "opengear", "src_ip": "192.168.100.1", "src_port": "52224", "token": "hostname testbot", "dictionary": "false"}
+{"time": "2023-10-26 10:41:44.304366", "device": "opengear", "src_ip": "192.168.100.1", "src_port": "52226", "token": "hostname testbot", "dictionary": "false"}
+{"time": "2023-10-26 10:48:45.789446", "device": "opengear", "src_ip": "192.168.100.1", "src_port": "52228", "token": "hostname testbot", "dictionary": "false"}
+{"time": "2023-10-26 10:49:39.525728", "device": "opengear", "src_ip": "192.168.100.1", "src_port": "52230", "token": "hostname testbot", "dictionary": "false"}
+{"time": "2023-10-26 10:52:20.482231", "device": "ubiquiti", "src_ip": "192.168.100.1", "src_port": "35114", "token": "hostname testbot", "dictionary": "false"}
+{"time": "2023-10-26 11:08:16.238780", "device": "ubiquiti", "src_ip": "192.168.100.1", "src_port": "35118", "token": "hostname testbot", "dictionary": "false"}
+{"time": "2023-10-26 21:52:24.050668", "device": "dlink", "src_ip": "223.12.6.68", "src_port": "54887", "token": "BOTNET", "dictionary": "false"}
+{"time": "2023-10-26 21:58:48.831100", "device": "dlink", "src_ip": "113.230.31.76", "src_port": "55751", "token": "BOTNET", "dictionary": "false"}
+{"time": "2023-10-26 22:04:39.566206", "device": "dlink", "src_ip": "27.7.175.219", "src_port": "52932", "token": "BOTNET", "dictionary": "false"}
+{"time": "2023-10-26 22:08:32.773909", "device": "dlink", "src_ip": "122.152.231.91", "src_port": "59264", "token": "BOTNET", "dictionary": "false"}
+{"time": "2023-10-26 22:12:55.687361", "device": "dlink", "src_ip": "103.118.116.177", "src_port": "38149", "token": "SORA", "dictionary": "false"}
+{"time": "2023-10-26 22:15:52.696306", "device": "dlink", "src_ip": "121.238.212.14", "src_port": "42459", "token": "BOTNET", "dictionary": "false"}
+{"time": "2023-10-26 22:18:15.082812", "device": "asus", "src_ip": "58.136.218.110", "src_port": "58153", "token": "DBOGM", "dictionary": "false"}
+{"time": "2023-10-26 22:18:44.208691", "device": "dlink", "src_ip": "110.181.235.250", "src_port": "50334", "token": "BOT", "dictionary": "false"}
+{"time": "2023-10-26 22:18:57.822605", "device": "dlink", "src_ip": "110.181.235.250", "src_port": "50537", "token": "BOT", "dictionary": "false"}
+{"time": "2023-10-26 22:19:04.993764", "device": "dlink", "src_ip": "110.181.235.250", "src_port": "50699", "token": "BOT", "dictionary": "false"}
+{"time": "2023-10-26 22:19:06.008615", "device": "dlink", "src_ip": "110.181.235.250", "src_port": "50720", "token": "BOT", "dictionary": "false"}
+{"time": "2023-10-26 22:19:36.997034", "device": "dlink", "src_ip": "110.181.235.250", "src_port": "51420", "token": "BOT", "dictionary": "false"}
+{"time": "2023-10-26 22:31:49.296544", "device": "dlink", "src_ip": "45.142.182.72", "src_port": "53688", "token": "BOTNET", "dictionary": "false"}
+{"time": "2023-10-26 22:37:01.774724", "device": "zte", "src_ip": "114.227.84.251", "src_port": "60201", "token": "BOTNET", "dictionary": "false"}
+{"time": "2023-10-26 22:40:35.430849", "device": "zte", "src_ip": "59.13.246.173", "src_port": "59225", "token": "<unknown>", "dictionary": "false"}
+{"time": "2023-10-26 22:47:02.230002", "device": "zyxel", "src_ip": "113.87.175.234", "src_port": "48628", "token": "BOTNET", "dictionary": "false"}
+{"time": "2023-10-26 22:49:57.584719", "device": "dlink", "src_ip": "46.19.139.138", "src_port": "33916", "token": "<unknown>", "dictionary": "false"}
+{"time": "2023-10-26 22:56:20.152094", "device": "opengear", "src_ip": "220.70.132.106", "src_port": "40876", "token": "DJNHE", "dictionary": "false"}
+{"time": "2023-10-26 23:23:01.050411", "device": "dlink", "src_ip": "121.238.212.14", "src_port": "53833", "token": "BOTNET", "dictionary": "false"}
+{"time": "2023-10-26 23:29:18.805828", "device": "dlink", "src_ip": "123.157.90.172", "src_port": "52096", "token": "BOTNET", "dictionary": "false"}
+{"time": "2023-10-26 23:29:48.505600", "device": "hikvision", "src_ip": "49.74.56.22", "src_port": "34308", "token": "BOTNET", "dictionary": "false"}
+{"time": "2023-10-26 23:33:09.096056", "device": "zte", "src_ip": "42.57.194.224", "src_port": "49716", "token": "BOTNET", "dictionary": "false"}
+{"time": "2023-10-26 23:33:48.033366", "device": "dlink", "src_ip": "60.246.228.42", "src_port": "48833", "token": "BOTNET", "dictionary": "false"}
+{"time": "2023-10-26 23:36:17.514430", "device": "dlink", "src_ip": "103.89.56.138", "src_port": "33214", "token": "BOT", "dictionary": "false"}
+{"time": "2023-10-26 23:36:27.416988", "device": "dlink", "src_ip": "31.220.1.133", "src_port": "56606", "token": "NIGGER", "dictionary": "false"}
+{"time": "2023-10-26 23:45:37.114082", "device": "dlink", "src_ip": "223.12.6.68", "src_port": "35896", "token": "BOTNET", "dictionary": "false"}
+{"time": "2023-10-26 23:48:29.198718", "device": "opengear", "src_ip": "176.194.113.3", "src_port": "43268", "token": "XZJZY", "dictionary": "false"}
+{"time": "2023-10-26 23:48:56.022667", "device": "dlink", "src_ip": "46.19.139.138", "src_port": "50938", "token": "<unknown>", "dictionary": "false"}
+{"time": "2023-10-26 23:58:02.837216", "device": "zte", "src_ip": "111.70.40.135", "src_port": "35124", "token": "hostname niggabox", "dictionary": "false"}
+{"time": "2023-10-26 23:59:36.428781", "device": "dlink", "src_ip": "118.249.82.85", "src_port": "60402", "token": "<unknown>", "dictionary": "false"}
