@@ -1,0 +1,1 @@
+{"time": "2023-10-19 11:50:45.279155", "device": "dlink", "src_ip": "185.254.37.107", "src_port": "52265", "token": "Layer1", "command": "wget", "download_ip": "185.254.37.107", "download_port": "80", "download_uri": "/Y91/mips", "complete": true}

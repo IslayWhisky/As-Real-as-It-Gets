@@ -1,0 +1,17 @@
+{"time": "2023-10-28 00:20:33.603885", "device": "billion", "src_ip": "193.42.32.57", "src_port": "59780", "token": "TBOTNET", "command": "echo", "download_uri": "/bins/mips", "complete": true}
+{"time": "2023-10-28 05:42:31.075472", "device": "zte", "src_ip": "193.42.32.57", "src_port": "44899", "token": "HolyFuck", "command": "echo", "download_uri": "/bins/mips", "complete": "dummy"}
+{"time": "2023-10-28 06:39:27.841670", "device": "zte", "src_ip": "193.42.32.57", "src_port": "60634", "token": "HolyFuck", "command": "echo", "download_uri": "/bins/mips", "complete": "dummy"}
+{"time": "2023-10-28 08:21:22.033123", "device": "zte", "src_ip": "193.42.32.57", "src_port": "54510", "token": "HolyFuck", "command": "echo", "download_uri": "/bins/mips", "complete": "dummy"}
+{"time": "2023-10-28 08:41:22.447611", "device": "zte", "src_ip": "193.42.32.57", "src_port": "38026", "token": "HolyFuck", "command": "echo", "download_uri": "/bins/mips", "complete": "dummy"}
+{"time": "2023-10-28 08:41:23.434869", "device": "billion", "src_ip": "193.42.32.57", "src_port": "37054", "token": "HolyFuck", "command": "wget", "download_ip": "185.225.74.161", "download_port": "80", "download_uri": "/jklmips", "complete": true}
+{"time": "2023-10-28 09:01:21.684431", "device": "zte", "src_ip": "193.42.32.57", "src_port": "46917", "token": "HolyFuck", "command": "echo", "download_uri": "/bins/mips", "complete": "dummy"}
+{"time": "2023-10-28 09:21:22.939261", "device": "zte", "src_ip": "193.42.32.57", "src_port": "34154", "token": "HolyFuck", "command": "echo", "download_uri": "/bins/mips", "complete": "dummy"}
+{"time": "2023-10-28 09:33:00.308759", "device": "zte", "src_ip": "193.42.32.57", "src_port": "37372", "token": "HolyFuck", "command": "echo", "download_uri": "/bins/mips", "complete": "dummy"}
+{"time": "2023-10-28 09:41:23.131218", "device": "zte", "src_ip": "193.42.32.57", "src_port": "35809", "token": "HolyFuck", "command": "echo", "download_uri": "/bins/mips", "complete": "dummy"}
+{"time": "2023-10-28 10:01:23.125677", "device": "zte", "src_ip": "193.42.32.57", "src_port": "55286", "token": "HolyFuck", "command": "echo", "download_uri": "/bins/mips", "complete": "dummy"}
+{"time": "2023-10-28 10:21:22.982185", "device": "zte", "src_ip": "193.42.32.57", "src_port": "35326", "token": "HolyFuck", "command": "echo", "download_uri": "/bins/mips", "complete": true}
+{"time": "2023-10-28 17:01:27.870554", "device": "billion", "src_ip": "193.42.32.57", "src_port": "34671", "token": "HolyFuck", "command": "wget", "download_ip": "185.225.74.161", "download_port": "80", "download_uri": "/jklmips", "complete": true}
+{"time": "2023-10-28 22:25:37.934440", "device": "asus", "src_ip": "175.205.47.154", "src_port": "48833", "token": "hostname niggabox", "command": "echo", "download_uri": "/arm", "complete": "dummy"}
+{"time": "2023-10-28 22:32:28.376467", "device": "billion", "src_ip": "185.254.37.42", "src_port": "34721", "token": "loud", "command": "wget", "download_ip": "185.254.37.42", "download_port": "80", "download_uri": "/z0l1mxjm4mdl4jjfjf7sb2vdmv/KKveTTgaAAsecNNaaaa.mips", "complete": "dummy"}
+{"time": "2023-10-28 23:21:47.784007", "device": "asus", "src_ip": "39.39.30.182", "src_port": "46798", "token": "hostname niggabox", "command": "echo", "download_uri": "/arm", "complete": "dummy"}
+{"time": "2023-10-28 23:21:47.784007", "device": "asus", "src_ip": "39.39.30.182", "src_port": "46798", "token": "hostname niggabox", "command": "echo", "download_uri": "/arm7", "complete": true}
