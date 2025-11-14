@@ -1,0 +1,1 @@
+{"time": "2023-12-19 11:30:17.231715", "device": "dlink", "src_ip": "1.68.192.199", "src_port": "39177", "token": "hostname PBOC", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/jklarm5", "complete": true}

@@ -1,0 +1,3 @@
+{"time": "2023-12-15 18:06:00.787535", "device": "netgear", "src_ip": "45.95.146.126", "src_port": "48313", "token": "HolyFuck", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/jklmips", "complete": true}
+{"time": "2023-12-15 18:39:19.135577", "device": "dlink", "src_ip": "45.95.146.126", "src_port": "53905", "token": "HolyFuck", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/jklmips", "complete": true}
+{"time": "2023-12-15 21:40:48.718480", "device": "dlink", "src_ip": "2.249.187.189", "src_port": "54472", "token": "hostname TBOT", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/jklarm5", "complete": true}
