@@ -1,0 +1,1 @@
+{"time": "2023-08-16 07:20:14.283655", "device": "billion", "src_ip": "193.34.212.110", "src_port": "45992", "token": "<unknown>", "command": "wget", "download_ip": "104.234.220.161", "download_port": "80", "download_uri": "/bins/sora.arm4", "complete": true}
