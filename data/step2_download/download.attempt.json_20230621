@@ -1,0 +1,25 @@
+{"time": "2023-06-21 13:24:59.537834", "device": "billion", "src_ip": "194.180.48.128", "src_port": "33641", "token": "IMSLEEPY", "command": "wget", "download_ip": "194.180.48.128", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-06-21 20:58:30.383941", "device": "asus", "src_ip": "95.214.27.65", "src_port": "46778", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm7"}
+{"time": "2023-06-21 20:58:30.383941", "device": "asus", "src_ip": "95.214.27.65", "src_port": "46778", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm"}
+{"time": "2023-06-21 23:58:35.168123", "device": "asus", "src_ip": "95.214.27.65", "src_port": "46416", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm7"}
+{"time": "2023-06-21 23:58:35.168123", "device": "asus", "src_ip": "95.214.27.65", "src_port": "46416", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm"}
+{"time": "2023-06-21 15:58:22.347588", "device": "asus", "src_ip": "95.214.27.65", "src_port": "40849", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm7"}
+{"time": "2023-06-21 15:58:22.347588", "device": "asus", "src_ip": "95.214.27.65", "src_port": "40849", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm"}
+{"time": "2023-06-21 17:58:25.297713", "device": "asus", "src_ip": "95.214.27.65", "src_port": "35121", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm7"}
+{"time": "2023-06-21 17:58:25.297713", "device": "asus", "src_ip": "95.214.27.65", "src_port": "35121", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm"}
+{"time": "2023-06-21 16:58:26.263405", "device": "asus", "src_ip": "95.214.27.65", "src_port": "60548", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm7"}
+{"time": "2023-06-21 16:58:26.263405", "device": "asus", "src_ip": "95.214.27.65", "src_port": "60548", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm"}
+{"time": "2023-06-21 12:58:17.533679", "device": "asus", "src_ip": "95.214.27.65", "src_port": "54672", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm7"}
+{"time": "2023-06-21 12:58:17.533679", "device": "asus", "src_ip": "95.214.27.65", "src_port": "54672", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm"}
+{"time": "2023-06-21 21:58:32.174296", "device": "asus", "src_ip": "95.214.27.65", "src_port": "33166", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm7"}
+{"time": "2023-06-21 21:58:32.174296", "device": "asus", "src_ip": "95.214.27.65", "src_port": "33166", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm"}
+{"time": "2023-06-21 18:58:27.102442", "device": "asus", "src_ip": "95.214.27.65", "src_port": "45016", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm7"}
+{"time": "2023-06-21 18:58:27.102442", "device": "asus", "src_ip": "95.214.27.65", "src_port": "45016", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm"}
+{"time": "2023-06-21 19:58:28.643761", "device": "asus", "src_ip": "95.214.27.65", "src_port": "46459", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm7"}
+{"time": "2023-06-21 19:58:28.643761", "device": "asus", "src_ip": "95.214.27.65", "src_port": "46459", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm"}
+{"time": "2023-06-21 14:58:20.768634", "device": "asus", "src_ip": "95.214.27.65", "src_port": "39945", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm7"}
+{"time": "2023-06-21 14:58:20.768634", "device": "asus", "src_ip": "95.214.27.65", "src_port": "39945", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm"}
+{"time": "2023-06-21 13:58:19.227144", "device": "asus", "src_ip": "95.214.27.65", "src_port": "60359", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm7"}
+{"time": "2023-06-21 13:58:19.227144", "device": "asus", "src_ip": "95.214.27.65", "src_port": "60359", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm"}
+{"time": "2023-06-21 22:58:33.459414", "device": "asus", "src_ip": "95.214.27.65", "src_port": "43639", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm7"}
+{"time": "2023-06-21 22:58:33.459414", "device": "asus", "src_ip": "95.214.27.65", "src_port": "43639", "token": "PARALYSIS", "command": "echo", "download_uri": "/bins/Paralysis.arm"}
