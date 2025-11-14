@@ -1,0 +1,2 @@
+{"time": "2023-06-06 02:40:23.229118", "device": "qnap", "src_ip": "85.209.134.96", "src_port": "34012", "token": "TBOTNET", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": false}
+{"time": "2023-06-06 22:50:02.290967", "device": "qnap", "src_ip": "85.209.134.96", "src_port": "45567", "token": "TBOTNET", "cnc_server": "infectedchink.cat:38241", "connect": false, "response": false}
