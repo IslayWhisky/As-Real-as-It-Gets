@@ -1,0 +1,4 @@
+{"time": "2023-08-08 15:28:40.819684", "device": "billion", "src_ip": "5.255.114.221", "src_port": "49752", "token": "<unknown>", "command": "wget", "download_ip": "5.255.114.221", "download_port": "80", "download_uri": "/bins/arm"}
+{"time": "2023-08-08 21:50:42.675710", "device": "billion", "src_ip": "80.94.92.31", "src_port": "52444", "token": "<unknown>", "command": "wget", "download_ip": "185.225.74.251", "download_port": "80", "download_uri": "/arc"}
+{"time": "2023-08-08 17:37:16.184409", "device": "billion", "src_ip": "80.94.92.31", "src_port": "55346", "token": "<unknown>", "command": "wget", "download_ip": "185.225.74.251", "download_port": "80", "download_uri": "/arc"}
+{"time": "2023-08-08 16:07:30.804663", "device": "dahua", "src_ip": "117.95.228.51", "src_port": "40646", "token": "ZEKPJ", "command": "tftp", "download_ip": "117.95.228.51", "download_port": "60337"}

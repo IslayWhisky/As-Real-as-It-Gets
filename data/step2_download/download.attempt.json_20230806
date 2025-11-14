@@ -1,0 +1,2 @@
+{"time": "2023-08-06 16:50:39.594863", "device": "billion", "src_ip": "5.255.114.221", "src_port": "50638", "token": "<unknown>", "command": "tftp", "download_ip": "5.255.114.221", "download_port": "69"}
+{"time": "2023-08-06 16:50:39.594863", "device": "billion", "src_ip": "5.255.114.221", "src_port": "50638", "token": "<unknown>", "command": "wget", "download_ip": "5.255.114.221", "download_port": "80", "download_uri": "/lmao/arm4"}

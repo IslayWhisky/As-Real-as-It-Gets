@@ -1,0 +1,3 @@
+{"time": "2023-07-31 22:47:49.752605", "device": "zyxel", "src_ip": "85.209.134.96", "src_port": "49301", "token": "TBOTNET", "command": "wget", "download_ip": "185.225.74.161", "download_port": "80", "download_uri": "/jklmips"}
+{"time": "2023-07-31 23:51:39.925392", "device": "zyxel", "src_ip": "87.120.88.118", "src_port": "56855", "token": "ECCHI", "command": "wget", "download_ip": "87.120.88.118", "download_port": "80", "download_uri": "/loki.mips"}
+{"time": "2023-07-31 23:36:26.524211", "device": "zyxel", "src_ip": "87.120.88.118", "src_port": "51575", "token": "ECCHI", "command": "wget", "download_ip": "87.120.88.118", "download_port": "80", "download_uri": "/loki.mips"}

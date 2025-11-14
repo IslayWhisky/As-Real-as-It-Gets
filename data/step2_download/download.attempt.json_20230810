@@ -1,0 +1,7 @@
+{"time": "2023-08-10 18:15:36.684928", "device": "billion", "src_ip": "5.255.114.194", "src_port": "43042", "token": "<unknown>", "command": "tftp", "download_ip": "5.255.114.194", "download_port": "69"}
+{"time": "2023-08-10 18:15:36.684928", "device": "billion", "src_ip": "5.255.114.194", "src_port": "43042", "token": "<unknown>", "command": "wget", "download_ip": "5.255.114.194", "download_port": "80", "download_uri": "/zxnxc0)Nxn902/sora.arm4"}
+{"time": "2023-08-10 05:58:48.316384", "device": "billion", "src_ip": "80.94.92.31", "src_port": "52562", "token": "<unknown>", "command": "wget", "download_ip": "185.225.74.251", "download_port": "80", "download_uri": "/arc"}
+{"time": "2023-08-10 11:35:02.570142", "device": "billion", "src_ip": "80.94.92.31", "src_port": "53668", "token": "<unknown>", "command": "wget", "download_ip": "185.225.74.251", "download_port": "80", "download_uri": "/arc"}
+{"time": "2023-08-10 09:14:14.028394", "device": "billion", "src_ip": "45.164.177.146", "src_port": "4018", "token": "<unknown>", "command": "wget", "download_ip": "192.168.1.1", "download_port": "8088", "download_uri": "/i"}
+{"time": "2023-08-10 17:14:23.618139", "device": "billion", "src_ip": "85.209.134.96", "src_port": "54605", "token": "TBOTNET", "command": "wget", "download_ip": "185.225.74.161", "download_port": "80", "download_uri": "/jklmips"}
+{"time": "2023-08-10 23:18:37.572978", "device": "dahua", "src_ip": "223.10.51.172", "src_port": "37309", "token": "NUVSV", "command": "tftp", "download_ip": "223.10.51.172", "download_port": "62323"}
