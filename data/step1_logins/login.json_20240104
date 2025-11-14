@@ -1,0 +1,7 @@
+{"time": "2024-01-04 01:42:25.744472", "device": "synology", "src_ip": "5.79.132.223", "src_port": "47427", "token": "<unknown>", "dictionary": "false"}
+{"time": "2024-01-04 03:20:37.823786", "device": "opengear", "src_ip": "175.31.170.143", "src_port": "40378", "token": "AWRHK", "dictionary": "false"}
+{"time": "2024-01-04 04:17:27.465839", "device": "opengear", "src_ip": "123.175.71.181", "src_port": "52146", "token": "HTXEK", "dictionary": "false"}
+{"time": "2024-01-04 07:55:22.513452", "device": "synology", "src_ip": "117.91.107.36", "src_port": "49636", "token": "NJMWY", "dictionary": "false"}
+{"time": "2024-01-04 11:12:41.247454", "device": "synology", "src_ip": "114.228.190.140", "src_port": "38067", "token": "JDDZI", "dictionary": "false"}
+{"time": "2024-01-04 14:06:19.265970", "device": "zte", "src_ip": "185.91.127.227", "src_port": "56922", "token": "BOTNET", "dictionary": "false"}
+{"time": "2024-01-04 14:25:51.782061", "device": "zte", "src_ip": "45.95.146.126", "src_port": "57114", "token": "GFGFF", "dictionary": "false"}
