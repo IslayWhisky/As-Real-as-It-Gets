@@ -1,0 +1,1 @@
+{"time": "2023-10-12 06:12:56.506817", "device": "zyxel", "src_ip": "193.42.32.57", "src_port": "34456", "token": "HolyFuck", "exe": ".shell", "sha256": "260657b0953701f4b8df4a2332669b23c082166be0bfcfadfe5cfe56621c06d7", "stime": "2023-10-12 06:13:54", "pid": "3310", "pname": "/usr/bin", "cmdline": "/usr/bin", "etime": "2023-10-25 17:00:00"}

@@ -1,0 +1,2 @@
+{"time": "2023-10-31 04:07:49.960674", "device": "ubiquiti", "src_ip": "207.167.66.162", "src_port": "40698", "token": "<unknown>", "exe": "RUN", "sha256": "-", "stime": "2023-10-31 04:08:46", "pid": "30424", "pname": "bash", "cmdline": "/sbin/auditd", "etime": "2023-11-11 12:28:43"}
+{"time": "2023-10-31 21:47:14.519950", "device": "ubiquiti", "src_ip": "207.167.66.162", "src_port": "42240", "token": "<unknown>", "exe": "RUN", "sha256": "-", "stime": "2023-10-31 21:47:25", "pid": "3828", "pname": "bash", "cmdline": "/sbin/auditd", "etime": "2023-11-11 12:28:43"}
