@@ -1,0 +1,1 @@
+{"time": "2023-06-20 03:22:36.926365", "device": "qnap", "src_ip": "85.209.134.96", "src_port": "36657", "token": "TBOTNET", "exe": "w16udo", "sha256": "14c9cb5ea81a725ddc34671c79e9db4ca7f8c62650068c8788133a76663c87f5", "stime": "2023-06-20 03:23:51", "pid": "22735", "pname": "/usr/bin", "cmdline": "/usr/bin", "etime": "2023-06-23 12:17:00"}

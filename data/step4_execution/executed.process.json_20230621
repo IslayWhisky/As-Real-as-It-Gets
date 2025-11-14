@@ -1,0 +1,1 @@
+{"time": "2023-06-21 13:24:59.537834", "device": "billion", "src_ip": "194.180.48.128", "src_port": "33641", "token": "IMSLEEPY", "exe": "pykx", "sha256": "-", "stime": "2023-06-21 13:25:17", "pid": "28546", "pname": "/bin/sh", "cmdline": "/bin/sh", "etime": "2023-06-24 03:24:40"}
