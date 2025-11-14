@@ -1,0 +1,2 @@
+{"time": "2023-12-20 15:57:19.140878", "device": "netgear", "src_ip": "125.167.37.62", "src_port": "48262", "token": "NTPHD", "cnc_server": "<P2P>", "connect": true, "response": "dummy"}
+{"time": "2023-12-20 21:12:06.005898", "device": "qnap", "src_ip": "45.95.146.126", "src_port": "34085", "token": "ASFAS", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}

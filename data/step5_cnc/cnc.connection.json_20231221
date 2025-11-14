@@ -1,0 +1,3 @@
+{"time": "2023-12-21 04:14:56.106409", "device": "qnap", "src_ip": "45.95.146.126", "src_port": "58591", "token": "ASFAS", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": "dummy"}
+{"time": "2023-12-21 07:25:13.276286", "device": "qnap", "src_ip": "45.95.146.126", "src_port": "52760", "token": "ASFAS", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": "dummy"}
+{"time": "2023-12-21 17:23:20.320632", "device": "zyxel", "src_ip": "45.95.146.126", "src_port": "59463", "token": "ASFAS", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}

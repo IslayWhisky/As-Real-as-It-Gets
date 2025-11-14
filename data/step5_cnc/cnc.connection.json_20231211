@@ -1,0 +1,5 @@
+{"time": "2023-12-11 15:35:15.005037", "device": "dlink", "src_ip": "185.224.128.31", "src_port": "52880", "token": "HolyFuck", "cnc_server": "infectedchink.cat:<random>", "connect": true, "response": false}
+{"time": "2023-12-11 16:50:56.666337", "device": "netgear", "src_ip": "185.224.128.31", "src_port": "45505", "token": "HolyFuck", "cnc_server": "infectedchink.cat:<random>", "connect": true, "response": false}
+{"time": "2023-12-11 17:30:00.584163", "device": "billion", "src_ip": "141.98.7.241", "src_port": "38826", "token": "<unknown>", "cnc_server": "93.123.85.102:3778", "connect": true, "response": true}
+{"time": "2023-12-11 17:30:18.495346", "device": "zte", "src_ip": "185.224.128.31", "src_port": "39672", "token": "HolyFuck", "cnc_server": "infectedchink.cat:<random>", "connect": true, "response": "dummy"}
+{"time": "2023-12-11 17:30:18.850317", "device": "billion", "src_ip": "185.224.128.31", "src_port": "40331", "token": "HolyFuck", "cnc_server": "infectedchink.cat:<random>", "connect": true, "response": false}

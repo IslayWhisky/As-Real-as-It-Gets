@@ -1,0 +1,9 @@
+{"time": "2023-12-26 01:14:16.987724", "device": "billion", "src_ip": "1.206.207.136", "src_port": "41792", "token": "hostname PBOC", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}
+{"time": "2023-12-26 01:14:16.987724", "device": "billion", "src_ip": "1.206.207.136", "src_port": "41792", "token": "hostname PBOC", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}
+{"time": "2023-12-26 03:01:49.633739", "device": "billion", "src_ip": "45.95.146.126", "src_port": "45927", "token": "ASFAS", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}
+{"time": "2023-12-26 03:11:59.907509", "device": "billion", "src_ip": "117.233.211.7", "src_port": "53318", "token": "hostname PBOC", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}
+{"time": "2023-12-26 03:11:59.907509", "device": "billion", "src_ip": "117.233.211.7", "src_port": "53318", "token": "hostname PBOC", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}
+{"time": "2023-12-26 03:12:07.924138", "device": "billion", "src_ip": "45.95.146.126", "src_port": "58608", "token": "ASFAS", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}
+{"time": "2023-12-26 03:25:57.757173", "device": "billion", "src_ip": "117.217.41.107", "src_port": "45547", "token": "ASFAS", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}
+{"time": "2023-12-26 05:33:36.619425", "device": "billion", "src_ip": "45.95.146.126", "src_port": "43678", "token": "ASFAS", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}
+{"time": "2023-12-26 05:53:46.546291", "device": "billion", "src_ip": "45.95.146.126", "src_port": "54000", "token": "ASFAS", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}
