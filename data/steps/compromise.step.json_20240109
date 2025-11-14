@@ -1,0 +1,2 @@
+{"time": "2024-01-09 03:36:52.626173", "device": "zte", "src_ip": "203.107.63.61", "src_port": "8004", "token": "<unknown>", "dictionary": true, "step1": true, "step2": false, "step3": false, "step4": false, "step5": false, "step6": false}
+{"time": "2024-01-09 10:02:37.800229", "device": "zte", "src_ip": "154.39.80.208", "src_port": "80", "token": "<unknown>", "dictionary": true, "step1": true, "step2": false, "step3": false, "step4": false, "step5": false, "step6": false}
