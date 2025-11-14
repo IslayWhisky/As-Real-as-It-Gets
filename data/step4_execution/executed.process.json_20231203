@@ -1,0 +1,1 @@
+{"time": "2023-12-03 01:09:13.321688", "device": "billion", "src_ip": "94.156.68.150", "src_port": "42878", "token": "HolyFuck", "exe": "dvrHelper", "sha256": "bd7ee6e2205c4fe5d47c4d80f60cdabce76c89941a4a7d6eabe7818a68e82abd", "stime": "2023-12-03 01:09:35", "pid": "16972", "pname": "/bin/init", "cmdline": "/bin/init r", "etime": "2023-12-03 01:18:45"}

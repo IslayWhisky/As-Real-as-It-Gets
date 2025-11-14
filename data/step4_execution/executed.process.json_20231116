@@ -1,0 +1,1 @@
+{"time": "2023-11-16 15:22:05.394819", "device": "ubiquiti", "src_ip": "107.189.10.12", "src_port": "47340", "token": "<unknown>", "exe": "RUN", "sha256": "-", "stime": "2023-11-16 15:22:42", "pid": "17935", "pname": "bash", "cmdline": "/sbin/auditd", "etime": "2023-11-27 17:42:40"}

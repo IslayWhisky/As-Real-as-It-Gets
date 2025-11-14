@@ -1,0 +1,1 @@
+{"time": "2023-11-25 00:26:40.642862", "device": "netgear", "src_ip": "42.55.186.253", "src_port": "56231", "token": "hostname TBOT", "exe": "jklmips", "sha256": "-", "stime": "2023-11-25 00:27:28", "pid": "5424", "pname": "/var/Challenge", "cmdline": "/var/Challenge", "etime": "2023-11-29 07:29:41"}
