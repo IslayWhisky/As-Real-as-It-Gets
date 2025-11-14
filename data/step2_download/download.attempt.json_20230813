@@ -1,0 +1,3 @@
+{"time": "2023-08-13 08:55:00.909045", "device": "billion", "src_ip": "80.94.92.31", "src_port": "34232", "token": "<unknown>", "command": "wget", "download_ip": "185.225.74.251", "download_port": "80", "download_uri": "/arc"}
+{"time": "2023-08-13 13:50:09.593382", "device": "asus", "src_ip": "31.220.1.133", "src_port": "34883", "token": "FBOT", "command": "tftp", "download_ip": "31.220.3.140", "download_port": "69"}
+{"time": "2023-08-13 13:50:09.593382", "device": "asus", "src_ip": "31.220.1.133", "src_port": "34883", "token": "FBOT", "command": "wget", "download_ip": "31.220.3.140", "download_port": "80", "download_uri": "/sms/la.bot.arm"}

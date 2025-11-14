@@ -1,0 +1,7 @@
+{"time": "2023-08-14 21:24:38.959369", "device": "billion", "src_ip": "193.34.212.110", "src_port": "52642", "token": "<unknown>", "command": "tftp", "download_ip": "104.234.220.161", "download_port": "69"}
+{"time": "2023-08-14 21:24:38.959369", "device": "billion", "src_ip": "193.34.212.110", "src_port": "52642", "token": "<unknown>", "command": "wget", "download_ip": "104.234.220.161", "download_port": "80", "download_uri": "/bins/sora.arm4"}
+{"time": "2023-08-14 23:18:55.110448", "device": "billion", "src_ip": "80.94.92.31", "src_port": "46514", "token": "<unknown>", "command": "wget", "download_ip": "185.225.74.251", "download_port": "80", "download_uri": "/arc"}
+{"time": "2023-08-14 23:34:25.904513", "device": "billion", "src_ip": "94.103.124.14", "src_port": "37974", "token": "<unknown>", "command": "tftp", "download_ip": "37.44.238.208", "download_port": "69"}
+{"time": "2023-08-14 23:34:25.904513", "device": "billion", "src_ip": "94.103.124.14", "src_port": "37974", "token": "<unknown>", "command": "wget", "download_ip": "37.44.238.208", "download_port": "80", "download_uri": "/bins/neko.arc"}
+{"time": "2023-08-14 22:07:54.393903", "device": "billion", "src_ip": "193.34.212.110", "src_port": "40892", "token": "<unknown>", "command": "tftp", "download_ip": "104.234.220.161", "download_port": "69"}
+{"time": "2023-08-14 22:07:54.393903", "device": "billion", "src_ip": "193.34.212.110", "src_port": "40892", "token": "<unknown>", "command": "wget", "download_ip": "104.234.220.161", "download_port": "80", "download_uri": "/bins/sora.arm4"}
