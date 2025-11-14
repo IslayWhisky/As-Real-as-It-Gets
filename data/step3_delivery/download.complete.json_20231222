@@ -1,0 +1,2 @@
+{"time": "2023-12-22 16:36:32.322322", "device": "zyxel", "src_ip": "81.213.29.221", "src_port": "4426", "token": "hostname PBOC", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/jklarm5", "complete": true}
+{"time": "2023-12-22 18:06:26.610090", "device": "netgear", "src_ip": "212.90.109.51", "src_port": "38411", "token": "hostname TBOT", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/jklarm5", "complete": true}
