@@ -12,7 +12,7 @@ This repository is primarily structured with top-level summary files for quick t
 ├── downloadserverlist        <-- List of Malware Download Servers
 ├── loaderlist                <-- List of Loaders
 ├── malwarelist               <-- List of IoT Malware Binaries and Scripts
-├── observationperiodlist     <-- List of Observation Periods
+├── observationlist           <-- List of Observation Periods
 └── data/                     <-- All categories of daily observation data
     ├── session/              <-- E.g., Session-level data
     │   ├── .json_YYYYMMDD    <-- Daily data with prefix/suffix pattern
@@ -40,7 +40,7 @@ These files provide aggregated lists for rapid threat intelligence lookup and ar
 | `downloadserverlist` | A list of observed **Malware Download Server** IP addresses. | `IP address` |
 | `loaderlist` | A list of file hashes or details for **Loader** malware components. | `IP address` (Source/Observed location) |
 | `malwarelist`| A list of **IoT Malware Binaries and Scripts** identified by their **SHA256 hash**. | `SHA256 hash` |
-| `observationperiodlist`| Details regarding the **observation periods**. | `case ID, device, start day, end day, # of days` |
+| `observationlist`| Details regarding the **observation periods**. | `case ID, device, start day, end day, # of days` |
 
 2. The data Directory
    
