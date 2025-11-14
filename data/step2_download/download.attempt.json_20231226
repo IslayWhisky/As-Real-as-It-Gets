@@ -1,0 +1,57 @@
+{"time": "2023-12-26 00:15:13.196178", "device": "billion", "src_ip": "45.95.146.126", "src_port": "47968", "token": "ASFAS", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-12-26 00:48:30.094296", "device": "billion", "src_ip": "45.95.146.126", "src_port": "44818", "token": "ASFAS", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-12-26 01:14:16.987724", "device": "billion", "src_ip": "1.206.207.136", "src_port": "41792", "token": "hostname PBOC", "command": "tftp", "download_ip": "45.95.146.126", "download_port": "69"}
+{"time": "2023-12-26 01:14:16.987724", "device": "billion", "src_ip": "1.206.207.136", "src_port": "41792", "token": "hostname PBOC", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/jklarm5"}
+{"time": "2023-12-26 01:14:16.987724", "device": "billion", "src_ip": "1.206.207.136", "src_port": "41792", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm"}
+{"time": "2023-12-26 01:14:16.987724", "device": "billion", "src_ip": "1.206.207.136", "src_port": "41792", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm5"}
+{"time": "2023-12-26 01:14:16.987724", "device": "billion", "src_ip": "1.206.207.136", "src_port": "41792", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm6"}
+{"time": "2023-12-26 01:14:16.987724", "device": "billion", "src_ip": "1.206.207.136", "src_port": "41792", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm7"}
+{"time": "2023-12-26 01:14:16.987724", "device": "billion", "src_ip": "1.206.207.136", "src_port": "41792", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklmips"}
+{"time": "2023-12-26 01:14:16.987724", "device": "billion", "src_ip": "1.206.207.136", "src_port": "41792", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklmpsl"}
+{"time": "2023-12-26 01:14:16.987724", "device": "billion", "src_ip": "1.206.207.136", "src_port": "41792", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklppc"}
+{"time": "2023-12-26 01:14:16.987724", "device": "billion", "src_ip": "1.206.207.136", "src_port": "41792", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklspc"}
+{"time": "2023-12-26 01:14:16.987724", "device": "billion", "src_ip": "1.206.207.136", "src_port": "41792", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklsh4"}
+{"time": "2023-12-26 01:55:07.972939", "device": "billion", "src_ip": "45.95.146.126", "src_port": "38097", "token": "ASFAS", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-12-26 02:28:30.251545", "device": "billion", "src_ip": "45.95.146.126", "src_port": "39853", "token": "ASFAS", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-12-26 03:01:49.633739", "device": "billion", "src_ip": "45.95.146.126", "src_port": "45927", "token": "ASFAS", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-12-26 03:11:59.907509", "device": "billion", "src_ip": "117.233.211.7", "src_port": "53318", "token": "hostname PBOC", "command": "tftp", "download_ip": "45.95.146.126", "download_port": "69"}
+{"time": "2023-12-26 03:11:59.907509", "device": "billion", "src_ip": "117.233.211.7", "src_port": "53318", "token": "hostname PBOC", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/jklarm5"}
+{"time": "2023-12-26 03:11:59.907509", "device": "billion", "src_ip": "117.233.211.7", "src_port": "53318", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm"}
+{"time": "2023-12-26 03:11:59.907509", "device": "billion", "src_ip": "117.233.211.7", "src_port": "53318", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm5"}
+{"time": "2023-12-26 03:11:59.907509", "device": "billion", "src_ip": "117.233.211.7", "src_port": "53318", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm6"}
+{"time": "2023-12-26 03:11:59.907509", "device": "billion", "src_ip": "117.233.211.7", "src_port": "53318", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm7"}
+{"time": "2023-12-26 03:11:59.907509", "device": "billion", "src_ip": "117.233.211.7", "src_port": "53318", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklmips"}
+{"time": "2023-12-26 03:11:59.907509", "device": "billion", "src_ip": "117.233.211.7", "src_port": "53318", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklmpsl"}
+{"time": "2023-12-26 03:11:59.907509", "device": "billion", "src_ip": "117.233.211.7", "src_port": "53318", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklppc"}
+{"time": "2023-12-26 03:11:59.907509", "device": "billion", "src_ip": "117.233.211.7", "src_port": "53318", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklspc"}
+{"time": "2023-12-26 03:11:59.907509", "device": "billion", "src_ip": "117.233.211.7", "src_port": "53318", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklsh4"}
+{"time": "2023-12-26 03:12:07.924138", "device": "billion", "src_ip": "45.95.146.126", "src_port": "58608", "token": "ASFAS", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-12-26 03:25:57.757173", "device": "billion", "src_ip": "117.217.41.107", "src_port": "45547", "token": "ASFAS", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-12-26 03:35:12.457435", "device": "billion", "src_ip": "45.95.146.126", "src_port": "34898", "token": "ASFAS", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-12-26 04:08:32.555817", "device": "billion", "src_ip": "45.95.146.126", "src_port": "43354", "token": "ASFAS", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-12-26 04:34:39.126612", "device": "billion", "src_ip": "222.148.159.3", "src_port": "34485", "token": "hostname TBOT", "command": "tftp", "download_ip": "45.95.146.126", "download_port": "69"}
+{"time": "2023-12-26 04:34:39.126612", "device": "billion", "src_ip": "222.148.159.3", "src_port": "34485", "token": "hostname TBOT", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/jklarm5"}
+{"time": "2023-12-26 04:34:39.126612", "device": "billion", "src_ip": "222.148.159.3", "src_port": "34485", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm"}
+{"time": "2023-12-26 04:34:39.126612", "device": "billion", "src_ip": "222.148.159.3", "src_port": "34485", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm5"}
+{"time": "2023-12-26 04:34:39.126612", "device": "billion", "src_ip": "222.148.159.3", "src_port": "34485", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm6"}
+{"time": "2023-12-26 04:34:48.951499", "device": "billion", "src_ip": "45.95.146.126", "src_port": "33707", "token": "ASFAS", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-12-26 04:41:52.075119", "device": "billion", "src_ip": "45.95.146.126", "src_port": "48544", "token": "ASFAS", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-12-26 05:15:13.204867", "device": "billion", "src_ip": "45.95.146.126", "src_port": "59450", "token": "ASFAS", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-12-26 05:33:36.619425", "device": "billion", "src_ip": "45.95.146.126", "src_port": "43678", "token": "ASFAS", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-12-26 05:48:34.373517", "device": "billion", "src_ip": "45.95.146.126", "src_port": "33666", "token": "ASFAS", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-12-26 05:53:40.301944", "device": "billion", "src_ip": "219.139.236.199", "src_port": "59379", "token": "hostname PBOC", "command": "tftp", "download_ip": "45.95.146.126", "download_port": "69"}
+{"time": "2023-12-26 05:53:40.301944", "device": "billion", "src_ip": "219.139.236.199", "src_port": "59379", "token": "hostname PBOC", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/jklarm5"}
+{"time": "2023-12-26 05:53:40.301944", "device": "billion", "src_ip": "219.139.236.199", "src_port": "59379", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm"}
+{"time": "2023-12-26 05:53:40.301944", "device": "billion", "src_ip": "219.139.236.199", "src_port": "59379", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm5"}
+{"time": "2023-12-26 05:53:40.301944", "device": "billion", "src_ip": "219.139.236.199", "src_port": "59379", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm6"}
+{"time": "2023-12-26 05:53:40.301944", "device": "billion", "src_ip": "219.139.236.199", "src_port": "59379", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm7"}
+{"time": "2023-12-26 05:53:40.301944", "device": "billion", "src_ip": "219.139.236.199", "src_port": "59379", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklmips"}
+{"time": "2023-12-26 05:53:40.301944", "device": "billion", "src_ip": "219.139.236.199", "src_port": "59379", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklmpsl"}
+{"time": "2023-12-26 05:53:40.301944", "device": "billion", "src_ip": "219.139.236.199", "src_port": "59379", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklppc"}
+{"time": "2023-12-26 05:53:40.301944", "device": "billion", "src_ip": "219.139.236.199", "src_port": "59379", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklspc"}
+{"time": "2023-12-26 05:53:40.301944", "device": "billion", "src_ip": "219.139.236.199", "src_port": "59379", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklsh4"}
+{"time": "2023-12-26 05:53:46.546291", "device": "billion", "src_ip": "45.95.146.126", "src_port": "54000", "token": "ASFAS", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-12-26 13:43:14.935161", "device": "zte", "src_ip": "106.112.219.182", "src_port": "43539", "token": "hostname PBOC", "command": "tftp", "download_ip": "45.95.146.126", "download_port": "69"}
+{"time": "2023-12-26 13:43:14.935161", "device": "zte", "src_ip": "106.112.219.182", "src_port": "43539", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm"}
+{"time": "2023-12-26 13:43:14.935161", "device": "zte", "src_ip": "106.112.219.182", "src_port": "43539", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm5"}
+{"time": "2023-12-26 13:43:14.935161", "device": "zte", "src_ip": "106.112.219.182", "src_port": "43539", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm6"}

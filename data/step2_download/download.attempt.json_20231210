@@ -1,0 +1,13 @@
+{"time": "2023-12-10 01:09:40.925415", "device": "asus", "src_ip": "45.95.146.126", "src_port": "42060", "token": "HolyFuck", "command": "tftp", "download_ip": "45.95.146.126", "download_port": "69"}
+{"time": "2023-12-10 09:08:02.250769", "device": "asus", "src_ip": "45.95.146.126", "src_port": "44481", "token": "HolyFuck", "command": "tftp", "download_ip": "45.95.146.126", "download_port": "69"}
+{"time": "2023-12-10 10:44:11.644176", "device": "asus", "src_ip": "49.87.196.159", "src_port": "57753", "token": "hostname TBOT", "command": "tftp", "download_ip": "45.95.146.126", "download_port": "69"}
+{"time": "2023-12-10 10:44:11.644176", "device": "asus", "src_ip": "49.87.196.159", "src_port": "57753", "token": "hostname TBOT", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/jklarm5"}
+{"time": "2023-12-10 10:44:11.644176", "device": "asus", "src_ip": "49.87.196.159", "src_port": "57753", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm"}
+{"time": "2023-12-10 10:44:11.644176", "device": "asus", "src_ip": "49.87.196.159", "src_port": "57753", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm5"}
+{"time": "2023-12-10 10:44:11.644176", "device": "asus", "src_ip": "49.87.196.159", "src_port": "57753", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm7"}
+{"time": "2023-12-10 10:44:11.644176", "device": "asus", "src_ip": "49.87.196.159", "src_port": "57753", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklmips"}
+{"time": "2023-12-10 10:44:11.644176", "device": "asus", "src_ip": "49.87.196.159", "src_port": "57753", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklmpsl"}
+{"time": "2023-12-10 17:42:28.000520", "device": "zte", "src_ip": "37.36.103.100", "src_port": "35488", "token": "hostname PBOC", "command": "tftp", "download_ip": "45.95.146.126", "download_port": "69"}
+{"time": "2023-12-10 17:42:28.000520", "device": "zte", "src_ip": "37.36.103.100", "src_port": "35488", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm"}
+{"time": "2023-12-10 17:42:28.000520", "device": "zte", "src_ip": "37.36.103.100", "src_port": "35488", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm5"}
+{"time": "2023-12-10 17:42:28.000520", "device": "zte", "src_ip": "37.36.103.100", "src_port": "35488", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm6"}

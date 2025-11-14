@@ -1,0 +1,5 @@
+{"time": "2023-12-17 00:24:09.979302", "device": "netgear", "src_ip": "149.50.96.45", "src_port": "37839", "token": "hailbot", "command": "wget", "download_ip": "193.222.96.26", "download_port": "80", "download_uri": "/telmips"}
+{"time": "2023-12-17 00:27:47.545410", "device": "netgear", "src_ip": "45.95.146.126", "src_port": "44614", "token": "HolyFuck", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/jklmips"}
+{"time": "2023-12-17 01:01:11.232889", "device": "netgear", "src_ip": "45.95.146.126", "src_port": "54922", "token": "HolyFuck", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/jklmips"}
+{"time": "2023-12-17 01:34:35.120863", "device": "netgear", "src_ip": "45.95.146.126", "src_port": "36722", "token": "HolyFuck", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/jklmips"}
+{"time": "2023-12-17 01:59:31.307036", "device": "netgear", "src_ip": "45.95.146.126", "src_port": "42668", "token": "HolyFuck", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/jklmips"}

@@ -1,0 +1,9 @@
+{"time": "2023-12-27 02:05:23.647353", "device": "dahua", "src_ip": "113.24.185.152", "src_port": "52273", "token": "JHSKT", "command": "tftp", "download_ip": "113.24.185.152", "download_port": "27277"}
+{"time": "2023-12-27 10:31:58.255960", "device": "dlink", "src_ip": "182.112.28.151", "src_port": "38658", "token": "hostname PBOC", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/jklarm5"}
+{"time": "2023-12-27 10:31:58.255960", "device": "dlink", "src_ip": "182.112.28.151", "src_port": "38658", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklmips"}
+{"time": "2023-12-27 10:31:58.255960", "device": "dlink", "src_ip": "182.112.28.151", "src_port": "38658", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklmpsl"}
+{"time": "2023-12-27 10:31:58.255960", "device": "dlink", "src_ip": "182.112.28.151", "src_port": "38658", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklppc"}
+{"time": "2023-12-27 10:32:07.885809", "device": "dlink", "src_ip": "45.95.146.126", "src_port": "37807", "token": "ASFAS", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-12-27 10:45:11.690647", "device": "dlink", "src_ip": "59.126.70.138", "src_port": "38370", "token": "hostname PBOC", "command": "wget", "download_ip": "45.95.146.126", "download_port": "80", "download_uri": "/jklarm5"}
+{"time": "2023-12-27 10:45:11.690647", "device": "dlink", "src_ip": "59.126.70.138", "src_port": "38370", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm"}
+{"time": "2023-12-27 10:45:11.690647", "device": "dlink", "src_ip": "59.126.70.138", "src_port": "38370", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm5"}

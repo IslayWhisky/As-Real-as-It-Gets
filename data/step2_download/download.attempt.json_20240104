@@ -1,0 +1,2 @@
+{"time": "2024-01-04 14:25:51.782061", "device": "zte", "src_ip": "45.95.146.126", "src_port": "57114", "token": "GFGFF", "command": "tftp", "download_ip": "45.95.146.126", "download_port": "69"}
+{"time": "2024-01-04 14:25:51.782061", "device": "zte", "src_ip": "45.95.146.126", "src_port": "57114", "token": "GFGFF", "command": "echo", "download_uri": "/jklmips"}
