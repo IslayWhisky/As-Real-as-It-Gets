@@ -1,0 +1,44 @@
+{"time": "2023-11-22 17:37:34.185638", "device": "zte", "src_ip": "59.98.98.233", "src_port": "34591", "token": "hostname TBOT", "command": "tftp", "download_ip": "94.156.68.148", "download_port": "69"}
+{"time": "2023-11-22 17:37:34.185638", "device": "zte", "src_ip": "59.98.98.233", "src_port": "34591", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm"}
+{"time": "2023-11-22 17:37:34.185638", "device": "zte", "src_ip": "59.98.98.233", "src_port": "34591", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm5"}
+{"time": "2023-11-22 17:37:34.185638", "device": "zte", "src_ip": "59.98.98.233", "src_port": "34591", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm6"}
+{"time": "2023-11-22 20:37:43.117714", "device": "billion", "src_ip": "2.37.39.10", "src_port": "42016", "token": "hostname TBOT", "command": "tftp", "download_ip": "94.156.68.148", "download_port": "69"}
+{"time": "2023-11-22 20:37:43.117714", "device": "billion", "src_ip": "2.37.39.10", "src_port": "42016", "token": "hostname TBOT", "command": "wget", "download_ip": "94.156.68.148", "download_port": "80", "download_uri": "/jklarm7"}
+{"time": "2023-11-22 20:37:43.117714", "device": "billion", "src_ip": "2.37.39.10", "src_port": "42016", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm"}
+{"time": "2023-11-22 20:37:43.117714", "device": "billion", "src_ip": "2.37.39.10", "src_port": "42016", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm5"}
+{"time": "2023-11-22 20:37:43.117714", "device": "billion", "src_ip": "2.37.39.10", "src_port": "42016", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm6"}
+{"time": "2023-11-22 20:37:43.117714", "device": "billion", "src_ip": "2.37.39.10", "src_port": "42016", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm7"}
+{"time": "2023-11-22 20:37:43.117714", "device": "billion", "src_ip": "2.37.39.10", "src_port": "42016", "token": "hostname TBOT", "command": "echo", "download_uri": "/mips"}
+{"time": "2023-11-22 20:37:43.117714", "device": "billion", "src_ip": "2.37.39.10", "src_port": "42016", "token": "hostname TBOT", "command": "echo", "download_uri": "/mpsl"}
+{"time": "2023-11-22 20:37:43.117714", "device": "billion", "src_ip": "2.37.39.10", "src_port": "42016", "token": "hostname TBOT", "command": "echo", "download_uri": "/ppc"}
+{"time": "2023-11-22 20:37:43.117714", "device": "billion", "src_ip": "2.37.39.10", "src_port": "42016", "token": "hostname TBOT", "command": "echo", "download_uri": "/spc"}
+{"time": "2023-11-22 20:37:43.117714", "device": "billion", "src_ip": "2.37.39.10", "src_port": "42016", "token": "hostname TBOT", "command": "echo", "download_uri": "/sh4"}
+{"time": "2023-11-22 20:37:51.758237", "device": "billion", "src_ip": "94.156.68.148", "src_port": "45391", "token": "TBOTNET", "command": "wget", "download_ip": "91.92.251.17", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-11-22 21:03:15.087656", "device": "billion", "src_ip": "94.156.68.148", "src_port": "43105", "token": "TBOTNET", "command": "wget", "download_ip": "91.92.251.17", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-11-22 21:29:50.534900", "device": "billion", "src_ip": "112.102.86.246", "src_port": "42660", "token": "hostname TBOT", "command": "tftp", "download_ip": "94.156.68.148", "download_port": "69"}
+{"time": "2023-11-22 21:29:50.534900", "device": "billion", "src_ip": "112.102.86.246", "src_port": "42660", "token": "hostname TBOT", "command": "wget", "download_ip": "94.156.68.148", "download_port": "80", "download_uri": "/jklarm7"}
+{"time": "2023-11-22 21:29:50.534900", "device": "billion", "src_ip": "112.102.86.246", "src_port": "42660", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm"}
+{"time": "2023-11-22 21:29:50.534900", "device": "billion", "src_ip": "112.102.86.246", "src_port": "42660", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm5"}
+{"time": "2023-11-22 21:29:50.534900", "device": "billion", "src_ip": "112.102.86.246", "src_port": "42660", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm6"}
+{"time": "2023-11-22 21:29:58.777527", "device": "billion", "src_ip": "94.156.68.148", "src_port": "59947", "token": "TBOTNET", "command": "wget", "download_ip": "91.92.251.17", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-11-22 21:36:36.288125", "device": "billion", "src_ip": "94.156.68.148", "src_port": "59995", "token": "TBOTNET", "command": "wget", "download_ip": "91.92.251.17", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-11-22 21:46:03.412493", "device": "billion", "src_ip": "94.156.68.148", "src_port": "53037", "token": "TBOTNET", "command": "wget", "download_ip": "91.92.251.17", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-11-22 22:09:57.267283", "device": "billion", "src_ip": "94.156.68.148", "src_port": "34027", "token": "TBOTNET", "command": "wget", "download_ip": "91.92.251.17", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-11-22 22:43:17.096616", "device": "billion", "src_ip": "94.156.68.148", "src_port": "56943", "token": "TBOTNET", "command": "wget", "download_ip": "91.92.251.17", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-11-22 23:15:00.301822", "device": "billion", "src_ip": "133.218.174.160", "src_port": "52244", "token": "hostname TBOT", "command": "tftp", "download_ip": "94.156.68.148", "download_port": "69"}
+{"time": "2023-11-22 23:15:00.301822", "device": "billion", "src_ip": "133.218.174.160", "src_port": "52244", "token": "hostname TBOT", "command": "wget", "download_ip": "94.156.68.148", "download_port": "80", "download_uri": "/jklarm7"}
+{"time": "2023-11-22 23:15:00.301822", "device": "billion", "src_ip": "133.218.174.160", "src_port": "52244", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm"}
+{"time": "2023-11-22 23:15:00.301822", "device": "billion", "src_ip": "133.218.174.160", "src_port": "52244", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm5"}
+{"time": "2023-11-22 23:15:00.301822", "device": "billion", "src_ip": "133.218.174.160", "src_port": "52244", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm6"}
+{"time": "2023-11-22 23:15:08.470432", "device": "billion", "src_ip": "94.156.68.148", "src_port": "35141", "token": "TBOTNET", "command": "wget", "download_ip": "91.92.251.17", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-11-22 23:16:36.445975", "device": "billion", "src_ip": "222.246.112.131", "src_port": "59009", "token": "VCWUJ", "command": "wget", "download_ip": "181.28.110.62", "download_port": "36923", "download_uri": "/.i"}
+{"time": "2023-11-22 23:16:37.304974", "device": "billion", "src_ip": "94.156.68.148", "src_port": "46513", "token": "TBOTNET", "command": "wget", "download_ip": "91.92.251.17", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-11-22 23:49:55.555338", "device": "billion", "src_ip": "94.156.68.148", "src_port": "59910", "token": "TBOTNET", "command": "wget", "download_ip": "91.92.251.17", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-11-22 23:50:33.257531", "device": "billion", "src_ip": "41.65.33.37", "src_port": "36874", "token": "hostname TBOT", "command": "tftp", "download_ip": "94.156.68.148", "download_port": "69"}
+{"time": "2023-11-22 23:50:33.257531", "device": "billion", "src_ip": "41.65.33.37", "src_port": "36874", "token": "hostname TBOT", "command": "wget", "download_ip": "94.156.68.148", "download_port": "80", "download_uri": "/jklarm7"}
+{"time": "2023-11-22 23:50:33.257531", "device": "billion", "src_ip": "41.65.33.37", "src_port": "36874", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm"}
+{"time": "2023-11-22 23:50:33.257531", "device": "billion", "src_ip": "41.65.33.37", "src_port": "36874", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm5"}
+{"time": "2023-11-22 23:50:33.257531", "device": "billion", "src_ip": "41.65.33.37", "src_port": "36874", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm6"}
+{"time": "2023-11-22 23:50:33.257531", "device": "billion", "src_ip": "41.65.33.37", "src_port": "36874", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm7"}
+{"time": "2023-11-22 23:50:33.257531", "device": "billion", "src_ip": "41.65.33.37", "src_port": "36874", "token": "hostname TBOT", "command": "echo", "download_uri": "/mips"}
+{"time": "2023-11-22 23:50:40.701515", "device": "billion", "src_ip": "94.156.68.148", "src_port": "50094", "token": "TBOTNET", "command": "wget", "download_ip": "91.92.251.17", "download_port": "80", "download_uri": "/mips"}

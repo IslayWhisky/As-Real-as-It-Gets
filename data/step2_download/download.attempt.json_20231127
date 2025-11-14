@@ -1,0 +1,1 @@
+{"time": "2023-11-27 05:00:00.016000", "device": "ubiquiti", "src_ip": "91.92.241.107", "src_port": "49513", "token": "HARIII", "command": "wget", "download_ip": "91.92.241.107", "download_port": "80", "download_uri": "/bins/mips"}

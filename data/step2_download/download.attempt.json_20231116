@@ -1,0 +1,3 @@
+{"time": "2023-11-16 14:57:44.859607", "device": "billion", "src_ip": "199.119.137.8", "src_port": "44596", "token": "<unknown>", "command": "tftp", "download_ip": "93.123.85.56", "download_port": "69"}
+{"time": "2023-11-16 14:57:44.859607", "device": "billion", "src_ip": "199.119.137.8", "src_port": "44596", "token": "<unknown>", "command": "wget", "download_ip": "93.123.85.56", "download_port": "80", "download_uri": "/NotGettingOblivionBins/Owari.arm4"}
+{"time": "2023-11-16 15:22:05.394819", "device": "ubiquiti", "src_ip": "107.189.10.12", "src_port": "47340", "token": "<unknown>", "command": "wget", "download_ip": "45.88.90.110", "download_port": "80", "download_uri": "/arc"}

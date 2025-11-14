@@ -1,0 +1,1 @@
+{"time": "2023-11-26 20:05:08.116974", "device": "ubiquiti", "src_ip": "93.123.85.3", "src_port": "44057", "token": "DAICA", "command": "wget", "download_ip": "93.123.85.3", "download_port": "80", "download_uri": "/where/botx.mips"}

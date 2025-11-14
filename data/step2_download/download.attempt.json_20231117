@@ -1,0 +1,1 @@
+{"time": "2023-11-17 14:57:29.713420", "device": "ubiquiti", "src_ip": "107.189.10.12", "src_port": "47362", "token": "<unknown>", "command": "wget", "download_ip": "45.88.90.110", "download_port": "80", "download_uri": "/arc"}

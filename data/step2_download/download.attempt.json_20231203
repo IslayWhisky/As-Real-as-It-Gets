@@ -1,0 +1,42 @@
+{"time": "2023-12-03 00:50:09.784118", "device": "billion", "src_ip": "106.58.150.157", "src_port": "37357", "token": "hostname PBOC", "command": "tftp", "download_ip": "94.156.68.150", "download_port": "69"}
+{"time": "2023-12-03 00:50:09.784118", "device": "billion", "src_ip": "106.58.150.157", "src_port": "37357", "token": "hostname PBOC", "command": "wget", "download_ip": "94.156.68.152", "download_port": "80", "download_uri": "/jklarm5"}
+{"time": "2023-12-03 00:50:09.784118", "device": "billion", "src_ip": "106.58.150.157", "src_port": "37357", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm"}
+{"time": "2023-12-03 00:50:09.784118", "device": "billion", "src_ip": "106.58.150.157", "src_port": "37357", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm5"}
+{"time": "2023-12-03 00:50:09.784118", "device": "billion", "src_ip": "106.58.150.157", "src_port": "37357", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm6"}
+{"time": "2023-12-03 00:50:20.545641", "device": "billion", "src_ip": "94.156.68.150", "src_port": "57347", "token": "HolyFuck", "command": "wget", "download_ip": "94.156.68.152", "download_port": "80", "download_uri": "/jklmips"}
+{"time": "2023-12-03 01:01:15.206828", "device": "hikvision", "src_ip": "201.242.39.247", "src_port": "45624", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm"}
+{"time": "2023-12-03 01:09:13.321688", "device": "billion", "src_ip": "94.156.68.150", "src_port": "42878", "token": "HolyFuck", "command": "wget", "download_ip": "94.156.68.152", "download_port": "80", "download_uri": "/jklmips"}
+{"time": "2023-12-03 01:18:39.312518", "device": "billion", "src_ip": "175.10.220.134", "src_port": "33761", "token": "hostname PBOC", "command": "tftp", "download_ip": "94.156.68.150", "download_port": "69"}
+{"time": "2023-12-03 01:18:39.312518", "device": "billion", "src_ip": "175.10.220.134", "src_port": "33761", "token": "hostname PBOC", "command": "wget", "download_ip": "94.156.68.152", "download_port": "80", "download_uri": "/jklarm5"}
+{"time": "2023-12-03 01:18:39.312518", "device": "billion", "src_ip": "175.10.220.134", "src_port": "33761", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm"}
+{"time": "2023-12-03 01:18:39.312518", "device": "billion", "src_ip": "175.10.220.134", "src_port": "33761", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm5"}
+{"time": "2023-12-03 01:18:39.312518", "device": "billion", "src_ip": "175.10.220.134", "src_port": "33761", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm6"}
+{"time": "2023-12-03 01:18:48.476092", "device": "billion", "src_ip": "94.156.68.150", "src_port": "35364", "token": "HolyFuck", "command": "wget", "download_ip": "94.156.68.152", "download_port": "80", "download_uri": "/jklmips"}
+{"time": "2023-12-03 01:36:27.231780", "device": "hikvision", "src_ip": "200.59.122.118", "src_port": "47227", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm"}
+{"time": "2023-12-03 01:36:27.231780", "device": "hikvision", "src_ip": "200.59.122.118", "src_port": "47227", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm5"}
+{"time": "2023-12-03 01:36:27.231780", "device": "hikvision", "src_ip": "200.59.122.118", "src_port": "47227", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm6"}
+{"time": "2023-12-03 01:49:30.189705", "device": "hikvision", "src_ip": "222.107.3.132", "src_port": "52824", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm"}
+{"time": "2023-12-03 04:12:39.168757", "device": "hikvision", "src_ip": "121.157.189.227", "src_port": "45383", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm"}
+{"time": "2023-12-03 04:12:39.168757", "device": "hikvision", "src_ip": "121.157.189.227", "src_port": "45383", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm5"}
+{"time": "2023-12-03 04:12:39.168757", "device": "hikvision", "src_ip": "121.157.189.227", "src_port": "45383", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm6"}
+{"time": "2023-12-03 06:54:19.431905", "device": "hikvision", "src_ip": "61.2.250.41", "src_port": "39161", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm"}
+{"time": "2023-12-03 06:54:19.431905", "device": "hikvision", "src_ip": "61.2.250.41", "src_port": "39161", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm5"}
+{"time": "2023-12-03 06:54:19.431905", "device": "hikvision", "src_ip": "61.2.250.41", "src_port": "39161", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm6"}
+{"time": "2023-12-03 07:59:23.103522", "device": "hikvision", "src_ip": "121.183.148.3", "src_port": "37724", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm"}
+{"time": "2023-12-03 07:59:23.103522", "device": "hikvision", "src_ip": "121.183.148.3", "src_port": "37724", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm5"}
+{"time": "2023-12-03 07:59:23.103522", "device": "hikvision", "src_ip": "121.183.148.3", "src_port": "37724", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm6"}
+{"time": "2023-12-03 10:19:17.978665", "device": "hikvision", "src_ip": "222.105.79.88", "src_port": "52578", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm"}
+{"time": "2023-12-03 10:19:17.978665", "device": "hikvision", "src_ip": "222.105.79.88", "src_port": "52578", "token": "hostname PBOC", "command": "echo", "download_uri": "/arm5"}
+{"time": "2023-12-03 12:15:56.127869", "device": "hikvision", "src_ip": "113.25.222.106", "src_port": "43679", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm"}
+{"time": "2023-12-03 12:15:56.127869", "device": "hikvision", "src_ip": "113.25.222.106", "src_port": "43679", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm5"}
+{"time": "2023-12-03 12:15:56.127869", "device": "hikvision", "src_ip": "113.25.222.106", "src_port": "43679", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm6"}
+{"time": "2023-12-03 12:32:55.721934", "device": "hikvision", "src_ip": "123.172.172.68", "src_port": "49613", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm"}
+{"time": "2023-12-03 12:32:55.721934", "device": "hikvision", "src_ip": "123.172.172.68", "src_port": "49613", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm5"}
+{"time": "2023-12-03 12:32:55.721934", "device": "hikvision", "src_ip": "123.172.172.68", "src_port": "49613", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm6"}
+{"time": "2023-12-03 16:04:42.017758", "device": "hikvision", "src_ip": "77.234.127.151", "src_port": "33852", "token": "hostname PBOC", "command": "echo", "download_uri": "/jklarm"}
+{"time": "2023-12-03 17:27:38.006170", "device": "hikvision", "src_ip": "221.157.184.28", "src_port": "41095", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm"}
+{"time": "2023-12-03 17:27:38.006170", "device": "hikvision", "src_ip": "221.157.184.28", "src_port": "41095", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm5"}
+{"time": "2023-12-03 17:27:38.006170", "device": "hikvision", "src_ip": "221.157.184.28", "src_port": "41095", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm6"}
+{"time": "2023-12-03 22:32:02.102729", "device": "hikvision", "src_ip": "221.225.219.31", "src_port": "57172", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm"}
+{"time": "2023-12-03 22:32:02.102729", "device": "hikvision", "src_ip": "221.225.219.31", "src_port": "57172", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm5"}
+{"time": "2023-12-03 22:32:02.102729", "device": "hikvision", "src_ip": "221.225.219.31", "src_port": "57172", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm6"}

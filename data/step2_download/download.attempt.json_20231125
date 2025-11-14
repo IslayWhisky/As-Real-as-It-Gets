@@ -1,0 +1,5 @@
+{"time": "2023-11-25 00:18:19.902744", "device": "netgear", "src_ip": "94.156.68.148", "src_port": "45514", "token": "TBOTNET", "command": "wget", "download_ip": "91.92.251.17", "download_port": "80", "download_uri": "/mips"}
+{"time": "2023-11-25 00:26:40.642862", "device": "netgear", "src_ip": "42.55.186.253", "src_port": "56231", "token": "hostname TBOT", "command": "wget", "download_ip": "94.156.68.148", "download_port": "80", "download_uri": "/jklmips"}
+{"time": "2023-11-25 00:26:40.642862", "device": "netgear", "src_ip": "42.55.186.253", "src_port": "56231", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm"}
+{"time": "2023-11-25 00:26:40.642862", "device": "netgear", "src_ip": "42.55.186.253", "src_port": "56231", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm5"}
+{"time": "2023-11-25 00:26:40.642862", "device": "netgear", "src_ip": "42.55.186.253", "src_port": "56231", "token": "hostname TBOT", "command": "echo", "download_uri": "/arm6"}

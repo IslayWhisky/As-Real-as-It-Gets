@@ -1,0 +1,1 @@
+{"time": "2023-11-19 11:00:33.869177", "device": "billion", "src_ip": "141.98.10.55", "src_port": "51080", "token": "<unknown>", "command": "wget", "download_ip": "141.98.10.55", "download_port": "80", "download_uri": "/binz/doxbin.arc"}

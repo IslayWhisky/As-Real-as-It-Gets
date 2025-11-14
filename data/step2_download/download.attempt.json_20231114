@@ -1,0 +1,9 @@
+{"time": "2023-11-14 01:54:48.273367", "device": "hikvision", "src_ip": "61.76.174.77", "src_port": "47766", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm"}
+{"time": "2023-11-14 01:54:48.273367", "device": "hikvision", "src_ip": "61.76.174.77", "src_port": "47766", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm5"}
+{"time": "2023-11-14 01:54:48.273367", "device": "hikvision", "src_ip": "61.76.174.77", "src_port": "47766", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm6"}
+{"time": "2023-11-14 03:04:33.720660", "device": "hikvision", "src_ip": "108.239.120.41", "src_port": "37427", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm"}
+{"time": "2023-11-14 11:37:53.778921", "device": "dlink", "src_ip": "110.180.142.210", "src_port": "49136", "token": "RKSVL", "command": "wget", "download_ip": "154.68.180.191", "download_port": "3284", "download_uri": "/.i"}
+{"time": "2023-11-14 11:39:47.473262", "device": "dlink", "src_ip": "114.139.39.207", "src_port": "35168", "token": "hostname TBOT", "command": "wget", "download_ip": "94.156.68.148", "download_port": "80", "download_uri": "/jklarm7"}
+{"time": "2023-11-14 11:39:47.473262", "device": "dlink", "src_ip": "114.139.39.207", "src_port": "35168", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm"}
+{"time": "2023-11-14 11:39:47.473262", "device": "dlink", "src_ip": "114.139.39.207", "src_port": "35168", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm5"}
+{"time": "2023-11-14 11:39:47.473262", "device": "dlink", "src_ip": "114.139.39.207", "src_port": "35168", "token": "hostname TBOT", "command": "echo", "download_uri": "/jklarm6"}
