@@ -1,0 +1,17 @@
+{"time": "2023-11-27 00:58:26.060369", "device": "synology", "src_ip": "189.233.146.233", "src_port": "41841", "token": "DNTJO", "dictionary": "false"}
+{"time": "2023-11-27 02:36:44.253669", "device": "synology", "src_ip": "111.70.29.33", "src_port": "40115", "token": "IQRTA", "dictionary": "false"}
+{"time": "2023-11-27 02:45:48.311332", "device": "synology", "src_ip": "121.128.103.44", "src_port": "48894", "token": "WXZKE", "dictionary": "false"}
+{"time": "2023-11-27 04:09:04.923932", "device": "synology", "src_ip": "124.235.253.97", "src_port": "54078", "token": "HGCEG", "dictionary": "false"}
+{"time": "2023-11-27 04:43:08.305909", "device": "ubiquiti", "src_ip": "91.92.241.107", "src_port": "33229", "token": "HARIII", "dictionary": "false"}
+{"time": "2023-11-27 04:46:00.003040", "device": "ubiquiti", "src_ip": "91.92.241.107", "src_port": "56083", "token": "HARIII", "dictionary": "false"}
+{"time": "2023-11-27 05:00:00.016000", "device": "ubiquiti", "src_ip": "91.92.241.107", "src_port": "49513", "token": "HARIII", "dictionary": "false"}
+{"time": "2023-11-27 06:18:21.379167", "device": "opengear", "src_ip": "138.84.45.13", "src_port": "7822", "token": "XZUUI", "dictionary": "false"}
+{"time": "2023-11-27 06:31:01.488116", "device": "synology", "src_ip": "68.95.120.155", "src_port": "49160", "token": "HVENN", "dictionary": "false"}
+{"time": "2023-11-27 10:05:09.129400", "device": "ubiquiti", "src_ip": "91.92.241.107", "src_port": "33374", "token": "YAKUZA", "dictionary": "false"}
+{"time": "2023-11-27 10:06:24.018955", "device": "ubiquiti", "src_ip": "91.92.241.107", "src_port": "51214", "token": "YAKUZA", "dictionary": "false"}
+{"time": "2023-11-27 12:33:48.695746", "device": "synology", "src_ip": "223.8.13.122", "src_port": "52321", "token": "BZDRC", "dictionary": "false"}
+{"time": "2023-11-27 12:44:51.752144", "device": "synology", "src_ip": "103.157.92.137", "src_port": "59144", "token": "JMLVT", "dictionary": "false"}
+{"time": "2023-11-27 14:03:08.044001", "device": "opengear", "src_ip": "121.55.240.75", "src_port": "53961", "token": "FRRQK", "dictionary": "false"}
+{"time": "2023-11-27 15:10:59.750676", "device": "synology", "src_ip": "222.246.43.10", "src_port": "39848", "token": "BFLHM", "dictionary": "false"}
+{"time": "2023-11-27 16:10:20.426144", "device": "synology", "src_ip": "123.175.25.142", "src_port": "37869", "token": "DROXH", "dictionary": "false"}
+{"time": "2023-11-27 17:34:47.852309", "device": "synology", "src_ip": "24.135.96.42", "src_port": "59677", "token": "LWUWA", "dictionary": "false"}
