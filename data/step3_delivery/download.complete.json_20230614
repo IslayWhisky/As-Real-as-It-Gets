@@ -1,0 +1,2 @@
+{"time": "2023-06-14 12:23:57.436962", "device": "billion", "src_ip": "194.180.48.128", "src_port": "52127", "token": "IMSLEEPY", "command": "wget", "download_ip": "194.180.48.128", "download_port": "80", "download_uri": "/mips", "complete": true}
+{"time": "2023-06-14 12:27:53.985331", "device": "qnap", "src_ip": "85.209.134.96", "src_port": "52850", "token": "TBOTNET", "command": "wget", "download_ip": "85.217.144.207", "download_port": "80", "download_uri": "/jklx86", "complete": true}

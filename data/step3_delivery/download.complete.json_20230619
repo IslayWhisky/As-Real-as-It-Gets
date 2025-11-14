@@ -1,0 +1,1 @@
+{"time": "2023-06-19 13:35:59.582995", "device": "qnap", "src_ip": "223.17.6.67", "src_port": "48835", "token": "MIRAI", "command": "wget", "download_ip": "89.203.249.48", "download_port": "80", "download_uri": "/armv5l", "complete": true}

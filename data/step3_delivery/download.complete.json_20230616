@@ -1,0 +1,1 @@
+{"time": "2023-06-16 00:17:12.060472", "device": "qnap", "src_ip": "194.180.48.128", "src_port": "44234", "token": "IMSLEEPY", "command": "wget", "download_ip": "194.180.48.128", "download_port": "80", "download_uri": "/x86", "complete": true}
