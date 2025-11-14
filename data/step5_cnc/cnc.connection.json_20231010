@@ -1,0 +1,6 @@
+{"time": "2023-10-10 17:28:04.878883", "device": "dlink", "src_ip": "222.84.22.248", "src_port": "44452", "token": "hostname niggabox", "cnc_server": "<DGA2>:3891", "connect": true, "response": true}
+{"time": "2023-10-10 17:52:33.969651", "device": "billion", "src_ip": "171.118.225.103", "src_port": "46019", "token": "hostname niggabox", "cnc_server": "<DGA2>:3891", "connect": true, "response": true}
+{"time": "2023-10-10 18:00:10.759808", "device": "qnap", "src_ip": "193.42.32.57", "src_port": "39322", "token": "TBOTNET", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}
+{"time": "2023-10-10 20:30:26.241767", "device": "billion", "src_ip": "185.225.74.61", "src_port": "33871", "token": "ECCHI", "cnc_server": "185.196.9.244:1293", "connect": true, "response": "dummy"}
+{"time": "2023-10-10 20:49:06.136619", "device": "billion", "src_ip": "194.169.175.201", "src_port": "54245", "token": "ECCHI", "cnc_server": "185.196.9.244:1293", "connect": true, "response": "dummy"}
+{"time": "2023-10-10 22:52:43.328950", "device": "billion", "src_ip": "193.42.32.57", "src_port": "59442", "token": "TBOTNET", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}

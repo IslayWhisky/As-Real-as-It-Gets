@@ -1,0 +1,5 @@
+{"time": "2023-10-28 00:20:33.603885", "device": "billion", "src_ip": "193.42.32.57", "src_port": "59780", "token": "TBOTNET", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-28 08:41:23.434869", "device": "billion", "src_ip": "193.42.32.57", "src_port": "37054", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-28 10:21:22.982185", "device": "zte", "src_ip": "193.42.32.57", "src_port": "35326", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-28 17:01:27.870554", "device": "billion", "src_ip": "193.42.32.57", "src_port": "34671", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-28 23:21:47.784007", "device": "asus", "src_ip": "39.39.30.182", "src_port": "46798", "token": "hostname niggabox", "cnc_server": "tortillacock.accesscam.org:3891", "connect": true, "response": true}

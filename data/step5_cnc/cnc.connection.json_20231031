@@ -1,0 +1,2 @@
+{"time": "2023-10-31 04:07:49.960674", "device": "ubiquiti", "src_ip": "207.167.66.162", "src_port": "40698", "token": "<unknown>", "cnc_server": "sf.paofen.org:48229", "connect": true, "response": true}
+{"time": "2023-10-31 21:47:14.519950", "device": "ubiquiti", "src_ip": "207.167.66.162", "src_port": "42240", "token": "<unknown>", "cnc_server": "sf.paofen.org:48229", "connect": true, "response": true}

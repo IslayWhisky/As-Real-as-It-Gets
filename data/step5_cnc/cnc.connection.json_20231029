@@ -1,0 +1,11 @@
+{"time": "2023-10-29 01:06:20.410005", "device": "zte", "src_ip": "193.42.32.57", "src_port": "53109", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-29 05:15:31.935529", "device": "billion", "src_ip": "193.42.32.57", "src_port": "36690", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-29 05:22:45.075138", "device": "billion", "src_ip": "193.42.32.57", "src_port": "41786", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-29 05:26:55.315475", "device": "billion", "src_ip": "193.42.32.57", "src_port": "52547", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-29 05:35:28.906498", "device": "billion", "src_ip": "193.42.32.57", "src_port": "39483", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-29 05:51:41.225416", "device": "billion", "src_ip": "45.66.230.47", "src_port": "52617", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-29 08:23:08.974749", "device": "asus", "src_ip": "79.124.7.24", "src_port": "60285", "token": "lizrd", "cnc_server": "79.124.7.24:9506", "connect": true, "response": true}
+{"time": "2023-10-29 09:18:58.703290", "device": "billion", "src_ip": "45.66.230.47", "src_port": "50159", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-29 14:05:22.201148", "device": "billion", "src_ip": "45.66.230.47", "src_port": "54335", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-29 14:27:26.941286", "device": "asus", "src_ip": "79.124.7.24", "src_port": "56417", "token": "lizrd", "cnc_server": "79.124.7.24:9506", "connect": true, "response": true}
+{"time": "2023-10-29 14:40:09.668261", "device": "billion", "src_ip": "85.227.84.200", "src_port": "58331", "token": "hostname niggabox", "cnc_server": "tortillacock.accesscam.org:3891", "connect": true, "response": true}

@@ -1,0 +1,2 @@
+{"time": "2023-07-17 08:44:12.095583", "device": "asus", "src_ip": "95.214.27.65", "src_port": "48672", "token": "YAWNS", "cnc_server": "95.214.27.65:2616", "connect": true, "response": "dummy"}
+{"time": "2023-07-17 08:51:50.467991", "device": "asus", "src_ip": "95.214.26.112", "src_port": "43495", "token": "AISURU", "cnc_server": "skidlord.re:6380", "connect": true, "response": false}

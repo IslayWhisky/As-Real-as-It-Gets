@@ -1,0 +1,11 @@
+{"time": "2023-10-15 03:05:11.147964", "device": "billion", "src_ip": "193.42.32.57", "src_port": "60851", "token": "HolyFuck", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}
+{"time": "2023-10-15 05:54:11.096604", "device": "billion", "src_ip": "80.94.92.20", "src_port": "37082", "token": "UNSTABLE", "cnc_server": "mirai.diicot.net:59666", "connect": true, "response": true}
+{"time": "2023-10-15 12:41:23.868582", "device": "dlink", "src_ip": "193.42.32.57", "src_port": "58985", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-15 12:56:43.881984", "device": "dlink", "src_ip": "193.42.32.57", "src_port": "34198", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-15 13:06:53.636015", "device": "dlink", "src_ip": "193.42.32.57", "src_port": "59679", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-15 13:12:13.872216", "device": "dlink", "src_ip": "193.42.32.57", "src_port": "36822", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-15 13:35:12.653659", "device": "dlink", "src_ip": "193.42.32.57", "src_port": "34979", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-15 13:43:23.833432", "device": "dlink", "src_ip": "193.42.32.57", "src_port": "43219", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-15 16:04:37.287454", "device": "dlink", "src_ip": "193.42.32.57", "src_port": "36698", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-15 16:24:12.506365", "device": "dlink", "src_ip": "193.42.32.57", "src_port": "54760", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}
+{"time": "2023-10-15 16:40:58.154468", "device": "dlink", "src_ip": "193.42.32.57", "src_port": "51247", "token": "HolyFuck", "cnc_server": "<DGA1>", "connect": true, "response": false}

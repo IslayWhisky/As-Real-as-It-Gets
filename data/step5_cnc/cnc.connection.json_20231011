@@ -1,0 +1,10 @@
+{"time": "2023-10-11 01:58:23.438801", "device": "asus", "src_ip": "95.62.164.48", "src_port": "54113", "token": "hostname niggabox", "cnc_server": "<DGA2>:3891", "connect": true, "response": true}
+{"time": "2023-10-11 02:51:51.807210", "device": "billion", "src_ip": "193.42.32.57", "src_port": "60964", "token": "TBOTNET", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}
+{"time": "2023-10-11 03:48:40.300340", "device": "billion", "src_ip": "193.42.32.57", "src_port": "36632", "token": "TBOTNET", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}
+{"time": "2023-10-11 04:34:25.022253", "device": "asus", "src_ip": "121.168.250.135", "src_port": "60267", "token": "hostname niggabox", "cnc_server": "<DGA2>:3891", "connect": true, "response": true}
+{"time": "2023-10-11 06:08:36.542531", "device": "asus", "src_ip": "125.137.233.19", "src_port": "3560", "token": "hostname niggabox", "cnc_server": "<DGA2>:3891", "connect": true, "response": true}
+{"time": "2023-10-11 08:31:42.423611", "device": "asus", "src_ip": "1.206.204.61", "src_port": "43993", "token": "hostname niggabox", "cnc_server": "<DGA2>:3891", "connect": true, "response": true}
+{"time": "2023-10-11 08:49:19.695151", "device": "qnap", "src_ip": "193.42.32.57", "src_port": "45261", "token": "HolyFuck", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}
+{"time": "2023-10-11 11:51:57.954829", "device": "asus", "src_ip": "171.44.198.229", "src_port": "57041", "token": "hostname niggabox", "cnc_server": "<DGA2>:3891", "connect": true, "response": true}
+{"time": "2023-10-11 12:53:38.360833", "device": "qnap", "src_ip": "193.42.32.57", "src_port": "58736", "token": "HolyFuck", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}
+{"time": "2023-10-11 22:26:12.966020", "device": "zyxel", "src_ip": "193.42.32.57", "src_port": "57378", "token": "HolyFuck", "cnc_server": "infectedchink.cat:38241", "connect": true, "response": true}
