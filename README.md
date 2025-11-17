@@ -24,7 +24,7 @@ This repository is primarily structured with top-level summary files for quick t
     │   ├── .json_YYYYMMDD    
     │   └── ...
     ├── ...                   <-- (Other specific step directories)
-    └── step6_payload/        <-- E.g., Commands sent to/from C2 servers
+    └── step5_cnc/        <-- E.g., Commands connection to C2 servers
         ├── .json_YYYYMMDD   
         └── ...
 ```
@@ -56,7 +56,7 @@ The data directory contains the detailed daily records collected from the long-t
 | `step3_delivery/` | Specific data related to **malware delivery**. | `.json_YYYYMMDD` |
 | `step4_execution/` | Specific data related to **process execution**. | `.json_YYYYMMDD` |
 | `step5_cnc/` | Specific data related to **cnc connection**. | `.json_YYYYMMDD` |
-| `step6_payload/` | Specific data related to **cnc payload or responce**. | `.json_YYYYMMDD` |
+| `step6_payload/` | Specific data related to **cnc payload or responce** (not included in this dataset as it may have malware binaries). | `.json_YYYYMMDD` |
 
 ## Notes
 This repository does not directly contain malicious executable files (malware binaries). Instead, we provide associated hash values (e.g., in malwarelist) to ensure research reproducibility while eliminating direct security risks associated with distributing live malware.
